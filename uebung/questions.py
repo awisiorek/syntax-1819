@@ -89,11 +89,15 @@ class SingleChoice(widgets.VBox):
                 
         def on_button_clicked(b):
             choice = b.description
-            b.style.button_color = 'lightgreen' if choice == self.correct else 'red'
-
-            if self.answered:
+            if b.style.button_color == 'lightgreen' or b.style.button_color == 'red':
                 b.style.button_color = None
-                self.answered = False
+            else:    
+                b.style.button_color = 'lightgreen' if choice == self.correct else 'red'
+            
+            
+            if self.answered:
+                #b.style.button_color = None
+                #self.answered = False
                 return
             self.answered = True
 
