@@ -50,7 +50,7 @@ blatt3_8d = [
 ]
 
 blatt3_9a = [
-    [Lueckentext("Ersetzbarkeit einer längeren durch eine kürzere Sequenz unter Erhalt der Wohlgeformtheit", {"längeren":["kürzeren"], "kürzere":["längere"], "Wohlgeformtheit":["Bedeutung"]}, inst=luecke)]
+    [Lueckentext("Ersetzbarkeit einer längeren durch eine kürzere Sequenz unter Erhalt der Wohlgeformtheit .", {"längeren":["kürzeren"], "kürzere":["längere"], "Wohlgeformtheit":["Bedeutung"]}, inst=luecke)]
 
 ]
 
