@@ -13,7 +13,7 @@ Vorlesung: Di 10-12; L155 (Axel Wisiorek)
 Übung: Mi 14-16; L155 (Martin Schmitt) 
 
 Tutorium: Fr 17:00-18:30; L155 (Swantje Kastrup) 
-- das Tutorium entfällt an folgenden Terminen: 16.11, 14.12, 21.12
+- das Tutorium entfällt an folgenden Terminen: 16.11, 14.12
 - bei Fragen oder Anmerkungen Mail an Swantje Kastrup mit folgendem Betreffschema: "Tutorium Syntax: Sitzungsdatum | Anmerkung" 
 
 ## Themen:
