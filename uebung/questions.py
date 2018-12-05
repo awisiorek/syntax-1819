@@ -168,7 +168,7 @@ class OpenQuestion(widgets.VBox):
     
 class SelectionList(widgets.VBox):
       
-    def __init__(self, text, correct, *wrong, sonst=False, inst=None):
+    def __init__(self, text, correct, *wrong, sonst=False, inst=selection):
         self.selection = ""
            
         self.richtig = correct    
@@ -180,6 +180,7 @@ class SelectionList(widgets.VBox):
             return allAnsw
         
         allAnsw = makeAnswers(correct, list(wrong))
+        self.selection=allAnsw[0]
         
         textbox = widgets.HTML(value='<h4 style="font-size:14px;">{}</h4>'.format(text))
         instbox = widgets.HTML(value='<i>{}</i>'.format(inst), layout=widgets.Layout(justify_content="center")) 
