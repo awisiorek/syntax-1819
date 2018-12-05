@@ -80,7 +80,7 @@ blatt8_5c_zusatz = [
 blatt8_5d = [
     [SingleChoice("Was für eine Satzkonstruktion liegt hier vor?", "koordiniert", "subordiniert", sonst=True)],
     [SelectionList("Welcher eingebettete Satztyp liegt vor?", "Keine der Alternativen", "Objektsatz", "Subjektsatz", "Relativsatz", "Temporalsatz", "Kausalsatz", "Modalsatz", "Lokalsatz", inst=selection)],
-    [SelectionList("Welcher Satztyp kommt vor?", "Matrixsatz", "Komplementsatz", "Attributsatz", "Adverbialsatz", sonst=True, inst=selection)],
+    [SelectionList("Welcher Satztyp kommt vor?", "Hauptsatz", "Matrixsatz", "Komplementsatz", "Attributsatz", "Adverbialsatz", sonst=True, inst=selection)],
     ]
 
 
