@@ -36,7 +36,7 @@ blatt8_3 = [
 blatt8_4 = [
     [SingleChoice("'Präpositionale Objekte stehen in Verbendsätzen in der Regel unmittelbar vor dem finiten Verb.'", "Satz 1", "Satz 2", "Satz 3", "Satz 4", sonst=False)],
     [SingleChoice("'Die Abfolgeregularität für Personalpronomina ist normalerweise ›Subjekt vor Akkusativobjekt vor Dativobjekt‹.'", "Satz 3", "Satz 1", "Satz 2", "Satz 4", sonst=False)],
-    [SingleChoice("'Im unmarkierten Fall steht die Modalpartikel nicht an der an der linken Peripherie des Mittelfelds (Wackernagel-Position).'", "Satz 4", "Satz 1", "Satz 2", "Satz 3", sonst=False)],
+    [SingleChoice("'Im unmarkierten Fall steht die Modalpartikel an der linken Peripherie des Mittelfelds (Wackernagel-Position).'", "Satz 4", "Satz 1", "Satz 2", "Satz 3", sonst=False)],
     [SingleChoice("'Die (markierte) Abfolge ›Subjekt vor Akkusativobjekt vor Dativobjekt‹ für nominale Satzglieder ist nur möglich, wenn bestimmte Bedingungen erfüllt sind (insbesondere Thema vor Rhema).'", "Satz 2", "Satz 1", "Satz 3", "Satz 4", sonst=False)],
 ]
 
