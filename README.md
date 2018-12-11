@@ -41,7 +41,7 @@ Tutorium: Fr 17:00-18:30; L155 (Swantje Kastrup)
 | Di, 08.01.19| 11. PCFGs |  
 | Di, 15.01.19| 12. Statistische Modelle | 
 | Di, 22.01.19| 13. Partielles Parsing  | 
-| Di, 29.01.19| Wiederholung  | 
+| Di, 29.01.19| "Parsing mit neuronalen Netzwerken" + Wiederholung  | 
 | Di, 05.02.19| Fragen  | 
 
 
