@@ -25,7 +25,7 @@ Tutorium: Fr 17:00-18:30; L155 (Swantje Kastrup)
 
 ## Klausur:
 
-Mi, 06.02.2018, 14-16 (L155), Dauer: 90 Minuten
+Mi, 06.02.2019, 14-16 (L155), Dauer: 90 Minuten
 
 - Anmeldung für Studierende der Computerlinguistik: über LSF im Anmeldezeitraum 
 - **Anmeldung für Studierende der Informatik: bis 01.02 per Mail an [A. Wisiorek](http://cis.lmu.de/personen/mitarbeiter/wisiorek/index.html)**
@@ -40,7 +40,7 @@ Termin für die Klausureinsicht ist der 27.02, 10 Uhr, in Raum U158.
 
 ## Wiederholungsklausur:
 
-Fr, 08.03.2018, 10-12 (Raum: folgt), Dauer: 90 Minuten
+Fr, 08.03.2019, 10-12 (Raum: folgt), Dauer: 90 Minuten
 
 Teilnehmer an der Wiederholungsklausur melden sich bitte ***nach Bekanntgabe der Klausurergebnisse*** zur Wiederholungsprüfung an:
 - Anmeldung für Studierende der Computerlinguistik: über das LSF
