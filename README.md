@@ -13,7 +13,7 @@ Vorlesung: Di 10-12; L155 (Axel Wisiorek)
 Übung: Mi 14-16; L155 (Martin Schmitt) 
 
 Tutorium: Fr 17:00-18:30; L155 (Swantje Kastrup) 
-- das Tutorium entfällt an folgenden Terminen: 16.11, 14.12
+- das Tutorium entfällt an folgenden Terminen: 08.02
 - bei Fragen oder Anmerkungen Mail an Swantje Kastrup mit folgendem Betreffschema: "Tutorium Syntax: Sitzungsdatum | Anmerkung" 
 
 ## Themen:
@@ -22,6 +22,35 @@ Tutorium: Fr 17:00-18:30; L155 (Swantje Kastrup)
 - **Parsing: CFG-Parsingalgorithmen und Unifikationsparsing**
 - **Statistisches Parsing: PCFGs und Dependency Parsing**
 - **Partielles Parsing: Chunking und reguläre Grammatiken**
+
+## Klausur:
+
+Mi, 06.02.2018, 14-16 (L155), Dauer: 90 Minuten
+
+- Anmeldung für Studierende der Computerlinguistik: über LSF im Anmeldezeitraum 
+- **Anmeldung für Studierende der Informatik: bis 01.02 per Mail an [A. Wisiorek](http://cis.lmu.de/personen/mitarbeiter/wisiorek/index.html)**
+
+Beispielaufgaben (inkl. Lösung) für die Klausur zur Illustration der verschiedenen Aufgabentypen und Themengebiete finden Sie unter `vorlesung/exam-examples` (jeweils eine Beispielaufgabe pro Themenkomplex zu einem der Themen, durch Kursivierung angezeigt).
+
+Die Ergebnisse der Klausur werden am 21.02 ins LSF eingetragen bzw. per Mail bekanntgegeben (Informatikstudierende).
+
+Termin für die Klausureinsicht ist der 27.02, 10 Uhr, in Raum U158.
+
+
+
+## Wiederholungsklausur:
+
+Fr, 08.03.2018, 10-12 (Raum: folgt), Dauer: 90 Minuten
+
+Teilnehmer an der Wiederholungsklausur melden sich bitte ***nach Bekanntgabe der Klausurergebnisse*** zur Wiederholungsprüfung an:
+- Anmeldung für Studierende der Computerlinguistik: über das LSF
+- Anmeldung für Studierende der Informatik: bis 01.03 per Mail an [A. Wisiorek](http://cis.lmu.de/personen/mitarbeiter/wisiorek/index.html)
+
+Die Ergebnisse der Wiederholungsklausur werden am 21.03 ins LSF eingetragen bzw. per Mail bekanntgegeben (Informatikstudierende).
+
+Termin für die Einsicht ist der 27.03, 10 Uhr, in Raum U158.
+
+
 
 
 ## Semesterplan:
