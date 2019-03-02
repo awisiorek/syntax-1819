@@ -5,6 +5,9 @@
 
 *Centrum für Informations- und Sprachverarbeitung, LMU München*
 
+## Aktueller Hinweis:
+***Die Wiederholungsklausur findet in Raum BU101 statt (08.03.19, 10-12 Uhr).***
+
 
 ## Termine:
 
@@ -40,13 +43,13 @@ Termin für die Klausureinsicht ist der 27.02, 10 Uhr, in Raum U158.
 
 ## Wiederholungsklausur:
 
-Fr, 08.03.2019, 10-12 (Raum: folgt), Dauer: 90 Minuten
+Fr, 08.03.2019, 10-12 (Raum: BU101), Dauer: 90 Minuten
 
 Teilnehmer an der Wiederholungsklausur melden sich bitte ***nach Bekanntgabe der Klausurergebnisse*** zur Wiederholungsprüfung an:
 - Anmeldung für Studierende der Computerlinguistik: über das LSF
 - Anmeldung für Studierende der Informatik: bis 01.03 per Mail an [A. Wisiorek](http://cis.lmu.de/personen/mitarbeiter/wisiorek/index.html)
 
-Die Ergebnisse der Wiederholungsklausur werden am 21.03 ins LSF eingetragen bzw. per Mail bekanntgegeben (Informatikstudierende).
+Die Ergebnisse der Wiederholungsklausur werden am 19.03 ins LSF eingetragen bzw. per Mail bekanntgegeben (Informatikstudierende).
 
 Termin für die Einsicht ist der 27.03, 10 Uhr, in Raum U158.
 
