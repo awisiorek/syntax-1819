@@ -49,9 +49,9 @@ Teilnehmer an der Wiederholungsklausur melden sich bitte ***nach Bekanntgabe der
 - Anmeldung für Studierende der Computerlinguistik: über das LSF
 - Anmeldung für Studierende der Informatik: bis 01.03 per Mail an [A. Wisiorek](http://cis.lmu.de/personen/mitarbeiter/wisiorek/index.html)
 
-Die Ergebnisse der Wiederholungsklausur werden am 19.03 ins LSF eingetragen bzw. per Mail bekanntgegeben (Informatikstudierende).
+Die Ergebnisse der Wiederholungsklausur werden am 14.03 ins LSF eingetragen bzw. per Mail bekanntgegeben (Informatikstudierende).
 
-Termin für die Einsicht ist der 27.03, 10 Uhr, in Raum U158.
+Termin für die Einsicht ist der 15.03, 10 Uhr, in Raum U158.
 
 
 
